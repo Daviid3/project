@@ -1,0 +1,101 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: rgba(238, 238, 238, 1);
+    /* border-radius: 50px; */
+    height: 150px;
+    margin-bottom: opx;
+}
+nav ul li{
+    display: inline-flex;
+    padding: 0px 20px;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: opx;
+    
+}
+.register {
+    background-color: rgba(66, 63, 229, 1);
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 1);
+}
+.medical {
+    color: rgba(94, 91, 251, 1);
+    margin-bottom: opx;
+}
+.content {
+    background-color: rgba(238, 238, 238, 1);
+    height: 1050px;
+    width: 2000px;
+    /* border: solid; */
+}
+.content-inside {
+    display: inline-block;
+    
+}
+p {
+    margin: 0px;
+    font-size: 64px;
+    width: 500px;
+    /* border: solid red;  */
+    padding-left: 138px;
+    margin-top: 277px;
+}
+.new-p {
+    margin: 0px;
+    width: 821px;
+    height: 126px;
+    font-size: 34px;
+    margin-top: 2px;
+
+}
+.input-box {
+   padding-left: 142px;
+}
+form {
+    
+    width: 918px;
+    height: 100px;
+    display: flex;
+
+}
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+    border-radius: 15px 0px 0px 15px ;
+    font-size: 32px;
+    color: rgba(134, 129, 129, 1);
+
+
+}
+form button {
+    background: rgba(66, 63, 229, 1);
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 1);
+    width: 304px;
+    border-radius: 0px 15px 15px 0px;
+    font-size: 32px;
+
+}
+.photo {
+ width: 400px;
+ height: 503px;
+ border-radius: 20px;
+ margin-left: 1102px;
+ margin-top: -400px;
+ display: flex;
+}
+.photo1 {
+    width: 400px;
+    height: 503px;
+    border-radius: 20px;
+    margin-left: 1602px;
+    margin-top: -700px;
+    display: flex;
+   }
